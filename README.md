@@ -3,9 +3,8 @@ Android ExpandableList Adapter Demo
 
 
 
-<img width="292" alt="3" src="https://cloud.githubusercontent.com/assets/12602212/21964957/a6179784-db7b-11e6-9918-1f6a43ee4540.png">
-<img width="294" alt="1" src="https://cloud.githubusercontent.com/assets/12602212/21964955/a5e5554e-db7b-11e6-8912-53c4f25a3d19.png">
-
+<img width="292" alt="3" src="https://cloud.githubusercontent.com/assets/12602212/22815088/e70bd8a6-ef7e-11e6-84d5-1179a2c8924c.png">
+<img width="294" alt="1" src="https://cloud.githubusercontent.com/assets/12602212/22815089/e7e0002c-ef7e-11e6-9277-26314ccda3ba.png">
 
 
 
